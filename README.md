@@ -12,7 +12,7 @@ node -v
 
 #Copie esse repositório em uma pasta qualquer abrindo o terminal bash nessa e rodando
 
-
+gh repo clone fMagVen/desafio-trinks
 
 #instale as dependências com
 
